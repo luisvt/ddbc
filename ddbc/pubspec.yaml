@@ -1,5 +1,10 @@
 name: ddbc
-description: A pub package
+version: 0.0.1
+author: Luis Vargas <luisvargastijerino@gmail.com>
+description: library that work as interface for Postgresql and SqlJocky equivalent to JDBC for java
+homepage: https://github.com/luisvt/ddbc
+environment:
+  sdk: '>=1.6.0'
 dependencies:
   enums: any
   unittest: any
