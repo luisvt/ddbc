@@ -1,0 +1,5 @@
+name: ddbc
+description: A pub package
+dependencies:
+  enums: any
+  unittest: any

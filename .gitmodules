@@ -1,0 +1,6 @@
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/xxgreg/postgresql
+[submodule "sqljocky"]
+	path = sqljocky
+	url = https://github.com/jamesots/sqljocky
